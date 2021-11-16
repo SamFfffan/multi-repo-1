@@ -18,7 +18,8 @@
 
 方方老师喜欢的网站是 [Baidu百科](https://baike.baidu.com/item/%E9%BB%91%E4%B8%9D%E8%A2%9C/10849245)
 
-![一张图片](2.png)
+![图片](2.png)
+![图片](1.png)
 
 ```javascript
 console.log('hello')
